@@ -9,4 +9,4 @@ I'm **Dexter**
 - If I dont know something, i can always ask questions!
 - Make mistakes and learn from it
 
-Link to my Github porfolio/profile: https://github.com/dexterfernandez
+Link to my Github porfolio/profile: (https://github.com/dexterfernandez)
