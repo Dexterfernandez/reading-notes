@@ -44,5 +44,4 @@
                     - Banana
                       - Orange
 
-
-[Here's a link](https//google.com)
+[Link to my Github porfolio/profile](https://github.com/dexterfernandez)
